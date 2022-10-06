@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I work as a Software Developer and I am involved in designing and developing solutions for Microsoft 365 and Power Platform ecosystem, building applications for  Mobile and Web.<br><br>🌱 I’m currently learning  React Framework and Minimal API in .NET<br><br>🌐 You can [visit my blog](https://nicoloferranti.net/) to read articles about Power Platform
+#### <br>🔭 I work as a Software Developer and I am involved in designing and developing solutions for Microsoft 365 and Power Platform ecosystem, building applications for  Mobile and Web.<br><br>🌱 I’m currently learning  React Framework and Minimal API in .NET<br><br>🌐 You can [visit my blog](https://nicoloferranti.net/) to read articles about Power Platform
 
 
 # 💻 Tech Stack:
