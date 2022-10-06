@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### <br>🔭 I work as a Software Developer and I am involved in designing and developing solutions for Microsoft 365 and Power Platform ecosystem, building applications for  Mobile and Web.<br><br>🌱 I’m currently learning  React Framework and Minimal API in .NET<br><br>🌐 You can [visit my blog](https://nicoloferranti.net/) to read articles about Power Platform
+### <br>🔭 I work as a Software Developer and I am involved in designing and developing solutions for Microsoft 365 and Power Platform ecosystem, building applications for  Mobile and Web.<br><br>🌱 I’m currently learning  React Framework and Minimal API in .NET<br><br>🌐 You can [visit my blog](https://nicoloferranti.net/) to read articles about Power Platform
 
 
 # 💻 Tech Stack:
@@ -8,6 +8,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=N1C0-95&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1C0-95&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
