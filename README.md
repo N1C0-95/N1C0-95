@@ -1,5 +1,7 @@
 # <p align="center"> Hey 👋, I'm Nicolò </p>
-### <br>🔭 I work as a Software Developer and I am involved in designing and developing solutions for Microsoft 365 and Power Platform ecosystem, building applications for  Mobile and Web.<br><br>🌐 You can [visit my blog](https://nicoloferranti.net/) to read articles about Power Platform
+### <br>🔭 I work as a Software Developer and I am involved in designing and developing solutions for Microsoft 365 and Power Platform ecosystem, building applications for  Mobile and Web.
+### 🪴 I'm always trying to grow and learn something new. My passion is technology & coding. 
+### 🌐 You can [visit my blog](https://nicoloferranti.net/) to read articles about Power Platform.
 
 
 # 💻 Tech Stack:
