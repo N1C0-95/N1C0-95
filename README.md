@@ -2,6 +2,9 @@
 ### <br>🔭 I work as a Software Developer and I am involved in designing and developing solutions for Microsoft 365 and Power Platform ecosystem, building applications for  Mobile and Web.
 ### 🪴 I'm always trying to grow and learn something new. My passion is technology & coding. 
 ### 🌐 You can [visit my blog](https://nicoloferranti.net/) to read articles about Power Platform.
+<p align="center"><img src="https://github.com/N1C0-95/N1C0-95/assets/74839804/3ead56b2-65c2-4d48-9f77-30339217c596" width="200"><img src="https://github.com/N1C0-95/N1C0-95/assets/74839804/31123a40-6c3c-478a-9df0-c8b61b7343b5" width="200"></p>
+
+
 
 
 # 💻 Tech Stack:
